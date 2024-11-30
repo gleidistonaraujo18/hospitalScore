@@ -48,7 +48,6 @@ O projeto foi desenvolvido para a disciplina **Programação para Dispositivos M
 
 7. **Tela de Perfil (Profile):**  
    - O usuário pode visualizar e editar seus dados pessoais, como **nome** e **e-mail**.  
-   - O usuário não pode alterar a senha, apenas o nome e o e-mail.  
    - A tela também permite que o usuário visualize as avaliações feitas.
 
 ---
