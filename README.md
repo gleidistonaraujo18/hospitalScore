@@ -17,7 +17,7 @@ O projeto foi desenvolvido para a disciplina **Programação para Dispositivos M
 
 ## **Levantamento de Requisitos com o Cliente**
 
-**Cliente:** Maria Eduarda Rodrigues  
+**Cliente:** Rodrigo Nunes  
 **Objetivo do Cliente:** Criar um aplicativo para avaliação de hospitais públicos, com funcionalidades que permitam aos usuários realizar avaliações detalhadas sobre hospitais e acessar informações como localização e dados de contato.
 
 ### **Requisitos Funcionais:**
