@@ -165,3 +165,39 @@ O desenvolvimento foi realizado em conjunto com o cliente Rodrigo Nunes, levando
    npm run build
    npm start
 
+## **Evidências de Tela**
+
+As imagens das telas do aplicativo podem ser acessadas na pasta `evidencias` do projeto, e aqui estão as descrições das telas:
+
+- **Tela 01 - Tela inicial**  
+  ![Tela inicial](./evidencias/screens/01.jpg)  
+
+- **Tela 02 - Login**  
+  ![Login](./evidencias/screens/02.jpg)  
+
+- **Tela 03 - Cadastro (Registrar-se)**  
+  ![Cadastro](./evidencias/screens/03.jpg)  
+
+- **Tela 04 - Home**  
+  ![Home](./evidencias/screens/04.jpg)  
+
+- **Tela 05 - Hospitais Cadastrados**  
+  ![Hospitais](./evidencias/screens/05.jpg)  
+
+- **Tela 06 - Avaliação do Hospital (Imagem 1)**  
+  ![Avaliação do Hospital](./evidencias/screens/06.jpg) 
+
+- **Tela 07 - Avaliação do Hospital (Imagem 2)**  
+  ![Avaliação do Hospital](./evidencias/screens/06.jpg)  
+
+- **Tela 08 - Perfil do Usuário**  
+  ![Perfil](./evidencias/screens/07.jpg)  
+
+- **Tela 09 - Detalhes do Hospital**  
+  ![Detalhes](./evidencias/06.jpg)  
+
+---
+
+## **Conclusão**
+
+O **Hospital Score** foi desenvolvido para melhorar a transparência dos serviços de saúde pública, permitindo avaliações simples e eficazes de hospitais. O sistema foi concluído conforme o cronograma e as necessidades do cliente. As imagens acima ilustram as principais funcionalidades do aplicativo.
