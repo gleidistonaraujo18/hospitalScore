@@ -167,34 +167,34 @@ O desenvolvimento foi realizado em conjunto com o cliente Rodrigo Nunes, levando
 
 ## **Evidências de Tela**
 
-As imagens das telas do aplicativo podem ser acessadas na pasta `evidencias` do projeto, e aqui estão as descrições das telas:
+As imagens das telas do aplicativo podem ser acessadas na pasta `evidencia` do projeto, e aqui estão as descrições das telas:
 
 - **Tela 01 - Tela inicial**  
-  ![Tela inicial](./evidencias/screens/01.jpg)  
+  ![Tela inicial](./evidencia/screens/01.jpg)  
 
 - **Tela 02 - Login**  
-  ![Login](./evidencias/screens/02.jpg)  
+  ![Login](./evidencia/screens/02.jpg)  
 
 - **Tela 03 - Cadastro (Registrar-se)**  
-  ![Cadastro](./evidencias/screens/03.jpg)  
+  ![Cadastro](./evidencia/screens/03.jpg)  
 
 - **Tela 04 - Home**  
-  ![Home](./evidencias/screens/04.jpg)  
+  ![Home](./evidencia/screens/04.jpg)  
 
 - **Tela 05 - Hospitais Cadastrados**  
-  ![Hospitais](./evidencias/screens/05.jpg)  
+  ![Hospitais](./evidencia/screens/05.jpg)  
 
 - **Tela 06 - Avaliação do Hospital (Imagem 1)**  
-  ![Avaliação do Hospital](./evidencias/screens/06.jpg) 
+  ![Avaliação do Hospital](./evidencia/screens/06.jpg) 
 
 - **Tela 07 - Avaliação do Hospital (Imagem 2)**  
-  ![Avaliação do Hospital](./evidencias/screens/06.jpg)  
+  ![Avaliação do Hospital](./evidencia/screens/06.jpg)  
 
 - **Tela 08 - Perfil do Usuário**  
-  ![Perfil](./evidencias/screens/07.jpg)  
+  ![Perfil](./evidencia/screens/07.jpg)  
 
 - **Tela 09 - Detalhes do Hospital**  
-  ![Detalhes](./evidencias/06.jpg)  
+  ![Detalhes](./evidencia/06.jpg)  
 
 ---
 
